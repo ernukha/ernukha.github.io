@@ -1,0 +1,17 @@
+.TestFrom{
+    margin-top: 10px;
+    border-radius: 30px;
+    height: 950px;
+    width: 700px;
+    background-color: white;
+    margin-bottom: 20px;
+  }
+#TestPage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-image: url("https://www.yale-nus.edu.sg/wp-content/uploads/2014/10/1.SingapOrientation-1024x632.jpg");
+    background-size: cover;
+    background-position: center;
+}
