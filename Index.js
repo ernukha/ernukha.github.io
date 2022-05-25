@@ -9,7 +9,7 @@ for(let i=0;i<numberO;i++)
         switch (lnk)
         {
             case "Home":
-                document.location.href= "Index.html";
+                document.location.href= "index.html";
                 break;
             case "Universities":
                 document.location.href= "Universities.html";
